@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Akhil Peddikuppa</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Akhil Peddikuppa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shop Your Store</title>
+      <link>/projects/shopyourstore/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/shopyourstore/</guid>
+      <description>An Android and iOS ecommerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and &amp;ldquo;shop their store&amp;rdquo;.
+  This project is geared at people who want to sell off old clothes and those you don&amp;rsquo;t have the means to run their own website due to cost.
+  This app was built with the Flutter SDK as the front end and Cloud Firestore as the backend.</description>
+    </item>
+    
+    <item>
+      <title>Internshift</title>
+      <link>/projects/internshift/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/internshift/</guid>
+      <description>App to aggregate internships and job openings for high school and college age students designed to decrease difficulty in the application process.
+  Internships and jobs at an early age have been shown to increase a student&amp;rsquo;s success in their designated field.
+  Built using Flutter SDK with Firebase Authentication for the authentication and Cloud Firestore for the Backend.
+  Submitted to Congressional App Challenge under District TX-30 represented by Congresswoman Eddie Bernice Johnson and placed 2nd.</description>
+    </item>
+    
+    <item>
+      <title>BuzzerBowl</title>
+      <link>/projects/buzzerbowl/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/buzzerbowl/</guid>
+      <description>  An app for quizbowl players to practice quiz bowl questions
+  Functionality includes ability to create or join games, practice, live buzzing, and native text-to-speech functionality for iOS, Android, MacOS, and Web.
+  Front end made using the Flutter SDK and backend made using Cloud Firestore
+  </description>
+    </item>
+    
+    <item>
+      <title>CommonPlace</title>
+      <link>/projects/commonplace/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/commonplace/</guid>
+      <description>  An app to connect the community in a neighborhood together.
+  Features include direct messaging, user search, chat rooms, and secure sign in and sign up through Firebase Authentication
+  Built using the Flutter SDK as a frontend and Cloud Firestore as a backend for chatrooms and user data storage
+  </description>
+    </item>
+    
+    <item>
+      <title>Porsche Taycan Edit Video</title>
+      <link>/projects/porschetaycanvideo/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/porschetaycanvideo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>/projects/firstproject/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/firstproject/</guid>
+      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of thoughts in a blog format.</description>
+    </item>
+    
+  </channel>
+</rss>

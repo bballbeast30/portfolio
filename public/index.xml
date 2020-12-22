@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akhil Peddikuppa</title>
+    <link>/</link>
+    <description>Recent content on Akhil Peddikuppa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shop Your Store</title>
+      <link>/projects/shopyourstore/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/shopyourstore/</guid>
+      <description>An Android and iOS ecommerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and &amp;ldquo;shop their store&amp;rdquo;.
+  This project is geared at people who want to sell off old clothes and those you don&amp;rsquo;t have the means to run their own website due to cost.
+  This app was built with the Flutter SDK as the front end and Cloud Firestore as the backend.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Quiz Bowl Team</title>
+      <link>/posts/quizbowlintro/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/quizbowlintro/</guid>
+      <description>What is Quiz Bowl?  Quiz Bowl is an academic competition in which two teams compete to answer questions from all areas of knowledge, including history, literature, science, fine arts, current events, pop culture, sports, and more.
+   How does Quiz Bowl work? This video is from the NAQT, which is an organization that provides Quiz Bowl questions.
+Questions are read by a moderator and players buzz in when they think they know the answer.</description>
+    </item>
+    
+    <item>
+      <title>Internshift</title>
+      <link>/projects/internshift/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/internshift/</guid>
+      <description>App to aggregate internships and job openings for high school and college age students designed to decrease difficulty in the application process.
+  Internships and jobs at an early age have been shown to increase a student&amp;rsquo;s success in their designated field.
+  Built using Flutter SDK with Firebase Authentication for the authentication and Cloud Firestore for the Backend.
+  Submitted to Congressional App Challenge under District TX-30 represented by Congresswoman Eddie Bernice Johnson and placed 2nd.</description>
+    </item>
+    
+    <item>
+      <title>The Levels of Vehicle Automation in 3 Minutes</title>
+      <link>/posts/levelsofvehicleautomation/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/levelsofvehicleautomation/</guid>
+      <description>With automation and especially automation in cars becoming more present in everyday life, it is important to know the concepts associated with the new technology that will one day be all around us.
+Here are the levels of vehicle automation in 3 minutes.
+Level 0: No Automation These vehicles are the normal everyday cars that are manually controlled and ones that you most likely own. Almost all cars available fall in this category.</description>
+    </item>
+    
+    <item>
+      <title>BuzzerBowl</title>
+      <link>/projects/buzzerbowl/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/buzzerbowl/</guid>
+      <description>  An app for quizbowl players to practice quiz bowl questions
+  Functionality includes ability to create or join games, practice, live buzzing, and native text-to-speech functionality for iOS, Android, MacOS, and Web.
+  Front end made using the Flutter SDK and backend made using Cloud Firestore
+  </description>
+    </item>
+    
+    <item>
+      <title>🛠 My Tools and Tech</title>
+      <link>/posts/toolsandtech/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/toolsandtech/</guid>
+      <description>A Walkthrough of What I Use&amp;hellip; ☎️ Phone My current phone is the iPhone 11 Pro Max.
+💻 Laptop My laptop is the 2019 MacBook Pro. The specs are an i9 Processor, 16 gigs of RAM, a terabyte of storage, and an AMD Radeon Pro 5500M graphics card.
+⌨️ Keyboard My keyboard is the Royal Kludge RK61 Mechanical Keyboard.
+🎧 Headphones The headphones I use are the original AirPods from Apple.</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Free AND Professional Video-Editing Program</title>
+      <link>/posts/favoritefreevideoediting/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/favoritefreevideoediting/</guid>
+      <description>DaVinci Resolve 17 is a video editing software that is FREE, used by professionals and packs many features that make it a great alternative to Adobe&amp;rsquo;s Creative Cloud or Apple&amp;rsquo;s Final Cut.
+What is DaVinci Resolve? If you take a look at the main video-editing softwares used by professionals, you&amp;rsquo;re most likely going to see either Premiere Pro or Final Cut Pro X. Now to people who can&amp;rsquo;t spend upwards of $40/month or $300, or for those who do not own an Apple machine, this may not be a viable option.</description>
+    </item>
+    
+    <item>
+      <title>CommonPlace</title>
+      <link>/projects/commonplace/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/commonplace/</guid>
+      <description>  An app to connect the community in a neighborhood together.
+  Features include direct messaging, user search, chat rooms, and secure sign in and sign up through Firebase Authentication
+  Built using the Flutter SDK as a frontend and Cloud Firestore as a backend for chatrooms and user data storage
+  </description>
+    </item>
+    
+    <item>
+      <title>Porsche Taycan Edit Video</title>
+      <link>/projects/porschetaycanvideo/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/porschetaycanvideo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>/projects/firstproject/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/firstproject/</guid>
+      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of thoughts in a blog format.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Akhil Peddikuppa 📧 - akhil.peddikuppa@outlook.com
+📞 - 469-290-2670
+ Responsible and hard working student (4.0 GPA) with excellent time management and exceptional organization skills that enable me to succeed in school. Possesses a strong work ethic and growth mindset which helps me and others around me to succeed.
+ 🛠 Technical Skills Web Design/Programming HTML, CSS, Javascript, Dart, Java, Python, SQL, Swift
+App Development Built iOS, Android, MacOS, and web apps with the Flutter SDK using the Dart programming language.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Akhil Peddikuppa and I am a sophomore at the School for the Talented and Gifted</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/</guid>
+      <description>search</description>
+    </item>
+    
+  </channel>
+</rss>

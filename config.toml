@@ -1,0 +1,119 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Akhil Peddikuppa"
+theme = "hugo-PaperMod"
+
+[params]
+env = "production"
+title = "Akhil Peddikuppa"
+author = "Akhil Peddikuppa"
+ShowReadingTime = true
+ShowShareButtons = false
+comments = false
+defaultTheme = "auto"
+disableThemeToggle = false
+[fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ "title", "permalink", "summary", "content" ]
+  
+
+  [params.label]
+  text = "Akhil Peddikuppa"
+  icon = "/favicon.ico"
+  
+  
+[params.profileMode]
+  enabled = false
+  title = "Akhil Peddikuppa"
+  subtitle = "High School Sophomore at the School For the Talented and Gifted"
+  imageUrl = "https://www.w3schools.com/w3css/img_lights.jpg"
+  imageWidth = 250
+  imageHeight = 250
+    [[params.profileMode.buttons]]
+    name = "About Me"
+    url = "about"
+    
+
+    [[params.profileMode.buttons]]
+    name = "Projects"
+    url = "Projects"
+
+    [[params.profileMode.buttons]]
+    name = "Resume"
+    url = "Resume"
+
+    [[params.profileMode.buttons]]
+    name = "My Tech"
+    url = "tech"
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "My name is Akhil. I'm a High School Sophomore at the School for the Talented and Gifted in Dallas, Texas. I am interested in medicine, tech, and economics. If you would like to know more about me, you can click [this link to visit my page about me](/about/)."
+  
+  
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:akhil.peddikuppa@outlook.com"
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/bballbeast301"
+
+  [[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UCQb004LW6mQhC_ONxAIaJTw?view_as=subscriber"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/bballbeast30"
+
+  
+
+  [params.cover]
+  responsiveImages = true
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "🏠 Home"
+url = "/"
+weight = 5
+[[menu.main]]
+identifier = "about"
+name = "👨🏾‍⚕️ About Me"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "projects"
+name = "💼 Projects"
+url = "/projects/"
+weight = 20
+
+[[menu.main]]
+identifier = "posts"
+name = "📌 Posts"
+url = "/posts/"
+weight = 30
+
+[[menu.main]]
+identifier = "resume"
+name = "📃 Resume"
+url = "/resume/"
+weight = 25
+
+[[menu.main]]
+identifier = "search"
+name = "🔍 Search"
+url = "/search/"
+weight = 50
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
