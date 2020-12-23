@@ -4,6 +4,8 @@ date: 2020-04-08
 draft: false
 weight: 4
 hidemeta: true
+cover: 
+    image: https://blog.nextdoor.com/wp-content/uploads/2020/03/7-Ways-to-Help.png
 ---
 
 - An app to connect the community in a neighborhood together. 

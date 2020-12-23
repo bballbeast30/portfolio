@@ -30,6 +30,18 @@ Level 0: No Automation These vehicles are the normal everyday cars that are manu
     </item>
     
     <item>
+      <title>How to Get Started with Hugo</title>
+      <link>/posts/2020/12/gettingstartedwithhugo/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/12/gettingstartedwithhugo/</guid>
+      <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
+What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
+Step 1: Installation The easiest way to install Hugo is through Homebrew.
+You can do so using the command:</description>
+    </item>
+    
+    <item>
       <title>🛠 My Tools and Tech</title>
       <link>/posts/2020/12/toolsandtech/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
@@ -59,24 +71,6 @@ What is DaVinci Resolve? If you take a look at the main video-editing softwares 
       <guid>/posts/2020/8/criminal-justice-reform-essay-_-negative.md-12-39-57-647/</guid>
       <description>Preface This Essay is one that was submitted in the Dallas Urban Debate Alliance&amp;rsquo;s essay competition concerning the topic of Criminal Justice Reform. This essay won third place in that competition.
  Many in the United States have been yearning for a reform in the criminal justice system citing issues such as racism, prevalence of junk methods in forensic science, and harsh, strict sentencing for drug cases. Proponents of criminal justice reform have proposed a plan that states:</description>
-    </item>
-    
-    <item>
-      <title>Why Flying Cars Likely Are Not the Future of Transportation</title>
-      <link>/posts/2020/12/flyingcarsnotfuture/</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/12/flyingcarsnotfuture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Commercialization of Space</title>
-      <link>/posts/2020/12/commercializationspace/</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/12/commercializationspace/</guid>
-      <description></description>
     </item>
     
   </channel>

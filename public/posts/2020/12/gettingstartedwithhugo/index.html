@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>How to Get Started with Hugo | Akhil Peddikuppa</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content="This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
+What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
+Step 1: Installation The easiest way to install Hugo is through Homebrew.
+You can do so using the command:">
+<meta name="author" content="Akhil Peddikuppa">
+<link rel="canonical" href="/posts/2020/12/gettingstartedwithhugo/" />
+<link href="/assets/css/stylesheet.min.73cf800b78b59ea9098393ff8eb0b6012dad5c37388a7fef9f2ab1ed6bbef759.css" integrity="sha256-c8&#43;AC3i1nqkJg5P/jrC2AS2tXDc4in/vnyqx7Wu&#43;91k=" rel="preload stylesheet"
+    as="style">
+
+<link rel="icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<meta name="generator" content="Hugo 0.79.0" />
+
+
+<meta property="og:title" content="How to Get Started with Hugo" />
+<meta property="og:description" content="This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
+What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
+Step 1: Installation The easiest way to install Hugo is through Homebrew.
+You can do so using the command:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/2020/12/gettingstartedwithhugo/" />
+<meta property="og:image" content="https://res.cloudinary.com/practicaldev/image/fetch/s--B35LQIoC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ickb9tcxbvbumven7r32.png" /><meta property="article:published_time" content="2020-12-22T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-12-22T00:00:00+00:00" /><meta property="og:site_name" content="Akhil Peddikuppa" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://res.cloudinary.com/practicaldev/image/fetch/s--B35LQIoC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ickb9tcxbvbumven7r32.png" />
+<meta name="twitter:title" content="How to Get Started with Hugo"/>
+<meta name="twitter:description" content="This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
+What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
+Step 1: Installation The easiest way to install Hugo is through Homebrew.
+You can do so using the command:"/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How to Get Started with Hugo",
+  "name": "How to Get Started with Hugo",
+  "description": "This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.\nWhat is Hugo? Hugo is a free and open source static site …",
+  "keywords": [
+    
+  ],
+  "articleBody": "This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.\nWhat is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.\nStep 1: Installation The easiest way to install Hugo is through Homebrew.\nYou can do so using the command:\nbrew install hugo Step 2: Create a site You can create a new site using the command:\nhugo new site blog Running this command will create a new site under the name “blog”. The folder will likely generate in your main hard drive folder, so I would recommend to move the folder into one for all your Hugo sites.\nStep 3: Let’s Add a Theme The Hugo Marketplace features a numerous amounts of themes to use all of which are for free. In this tutorial, we will use the PaperMod theme by Aditya Telange, which I use for this site.\nTo download the theme, you need to download the theme from Githun using these commands:\ncd blog git init git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod Then, we need to add the theme to our config.toml file using the commands:\necho 'theme = \"hugo-PaperMod\"'  config.toml Step 4: Add Content To create content in the Hugo website, we can run the command:\nhugo new posts/firstpost.md This will create a new folder called “posts” in the content folder with file name “firstpost.md”.\nIf you would not like to use command line instructions, you can simply just create a new folder under content and add a file, although I recommend using the command line as it can save a lot of time.\nThe new file will look a bit like:\n--- title: \"firstpost\" date: 2020-12-21T08:47:11+01:00 draft: true --- The title parameter will be the title of your blog post. For this template you can add a cover image by adding:\ncover: image: (insert image URL here) to the post data.\nStep 5: Starting the Server To start the Hugo server with drafts enabled use command:\nhugo server -D You will see the web server is available at http://localhost:1313/. Click the link to visit your site.\nStep 6: Theme Customization In order to customize this theme you can visit the config.toml file.\nThere you will see something like this:\nbaseURL = \"https://example.org/\" languageCode = \"en-us\" title = \"My New Hugo Site\" theme = \"hugo-PaperMod\" Here, you can change the title of your site, which depending on your theme will change different values.\nI will like the docs for this specific theme here.\nAnother great thing about Hugo is that you see changes made render in real time on the server.\nThe Final Step: Build and Deploy Your website Prior to deploying your site, I would advise you to go into your config.toml file and change the parameter that says:\nbaseURL = \"https://example.org/\" to\nbaseURL = \"/\" Now, to build the website for deployment simply call:\nhugo -D The outputted files will be in the /public/ folder and you can copy those items to deploy in whatever hosting site you have.\n",
+  "wordCount" : "528",
+  "inLanguage": "en",
+  "image":"https://res.cloudinary.com/practicaldev/image/fetch/s--B35LQIoC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ickb9tcxbvbumven7r32.png","datePublished": "2020-12-22T00:00:00Z",
+  "dateModified": "2020-12-22T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Akhil Peddikuppa"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/posts/2020/12/gettingstartedwithhugo/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Akhil Peddikuppa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+</head>
+
+<body class="">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+<noscript>
+    <style type="text/css">
+        .theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="/" accesskey="h" title="Akhil Peddikuppa (Alt + H)">
+                <img src="/favicon.ico" alt="logo" aria-label="logo"
+                    height="30px">Akhil Peddikuppa</a>
+            <span class="logo-switches">
+                <span class="theme-toggle" title="(Alt + T)">
+                    <a id="theme-toggle" accesskey="t">
+                        <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                        <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                    </a>
+                </span>
+                
+            </span>
+        </div>
+        <ul class="menu" id="menu" onscroll="menu_on_scroll()">
+            <li>
+                <a href="/" title="🏠 Home">
+                    <span>🏠 Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="/about/" title="👨🏾‍⚕️ About Me">
+                    <span>👨🏾‍⚕️ About Me</span>
+                </a>
+            </li>
+            <li>
+                <a href="/projects/" title="💼 Projects">
+                    <span>💼 Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="/resume/" title="📃 Resume">
+                    <span>📃 Resume</span>
+                </a>
+            </li>
+            <li>
+                <a href="/posts/" title="📌 Posts">
+                    <span>📌 Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="/search/" title="🔍 Search (Alt &#43; /)" accesskey=/>
+                    <span>🔍 Search</span>
+                </a>
+            </li></ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">
+      How to Get Started with Hugo
+    </h1>
+    <div class="post-meta">
+
+December 22, 2020&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Akhil Peddikuppa
+
+    </div>
+  </header> 
+<figure class="entry-cover"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--B35LQIoC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ickb9tcxbvbumven7r32.png" alt="">
+        
+</figure>
+
+  <div class="post-content">
+<p>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.</p>
+<h2 id="what-is-hugo">What is Hugo?<a hidden class="anchor" aria-hidden="true" href="#what-is-hugo">#</a></h2>
+<p>Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.</p>
+<h2 id="step-1-installation">Step 1: Installation<a hidden class="anchor" aria-hidden="true" href="#step-1-installation">#</a></h2>
+<p>The easiest way to install Hugo is through Homebrew.<br>
+You can do so using the command:</p>
+<pre><code>brew install hugo
+</code></pre><h2 id="step-2-create-a-site">Step 2: Create a site<a hidden class="anchor" aria-hidden="true" href="#step-2-create-a-site">#</a></h2>
+<p>You can create a new site using the command:</p>
+<pre><code>hugo new site blog
+</code></pre><p>Running this command will create a new site under the name &ldquo;blog&rdquo;. The folder will likely generate in your main hard drive folder, so I would recommend to move the folder into one for all your Hugo sites.</p>
+<h2 id="step-3-lets-add-a-theme">Step 3: Let&rsquo;s Add a Theme<a hidden class="anchor" aria-hidden="true" href="#step-3-lets-add-a-theme">#</a></h2>
+<p>The Hugo Marketplace features a numerous amounts of <a href="https://themes.gohugo.io">themes</a> to use all of which are for free. In this tutorial, we will use the PaperMod theme by Aditya Telange, which I use for this site.</p>
+<p>To download the theme, you need to download the theme from Githun using these commands:</p>
+<pre><code>cd blog
+git init
+git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod
+</code></pre><p>Then, we need to add the theme to our config.toml file using the commands:</p>
+<pre><code>echo 'theme = &quot;hugo-PaperMod&quot;' &gt;&gt; config.toml
+</code></pre><h2 id="step-4-add-content">Step 4: Add Content<a hidden class="anchor" aria-hidden="true" href="#step-4-add-content">#</a></h2>
+<p>To create content in the Hugo website, we can run the command:</p>
+<pre><code>hugo new posts/firstpost.md
+</code></pre><p>This will create a new folder called &ldquo;posts&rdquo; in the content folder with file name &ldquo;firstpost.md&rdquo;.</p>
+<p>If you would not like to use command line instructions, you can simply just create a new folder under content and add a file, although I recommend using the command line as it can save a lot of time.</p>
+<p>The new file will look a bit like:</p>
+<pre><code>---
+title: &quot;firstpost&quot;
+date: 2020-12-21T08:47:11+01:00
+draft: true
+---
+</code></pre><p>The title parameter will be the title of your blog post. For this template you can add a cover image by adding:</p>
+<pre><code>cover:
+    image: (insert image URL here)
+</code></pre><p>to the post data.</p>
+<h2 id="step-5-starting-the-server">Step 5: Starting the Server<a hidden class="anchor" aria-hidden="true" href="#step-5-starting-the-server">#</a></h2>
+<p>To start the Hugo server with drafts enabled use command:</p>
+<pre><code>hugo server -D
+</code></pre><p>You will see the web server is available at <a href="http://localhost:1313/">http://localhost:1313/</a>. Click the link to visit your site.</p>
+<h2 id="step-6-theme-customization">Step 6: Theme Customization<a hidden class="anchor" aria-hidden="true" href="#step-6-theme-customization">#</a></h2>
+<p>In order to customize this theme you can visit the config.toml file.</p>
+<p>There you will see something like this:</p>
+<pre><code>baseURL = &quot;https://example.org/&quot;
+languageCode = &quot;en-us&quot;
+title = &quot;My New Hugo Site&quot;
+theme = &quot;hugo-PaperMod&quot;
+</code></pre><p>Here, you can change the title of your site, which depending on your theme will change different values.</p>
+<p>I will like the docs for this specific theme <a href="https://adityatelange.github.io/hugo-PaperMod/">here</a>.</p>
+<p>Another great thing about Hugo is that you see changes made render in real time on the server.</p>
+<h2 id="the-final-step-build-and-deploy-your-website">The Final Step: Build and Deploy Your website<a hidden class="anchor" aria-hidden="true" href="#the-final-step-build-and-deploy-your-website">#</a></h2>
+<p>Prior to deploying your site, I would advise you to go into your config.toml file and change the parameter that says:</p>
+<pre><code>baseURL = &quot;https://example.org/&quot;
+</code></pre><p>to</p>
+<pre><code>baseURL = &quot;/&quot;
+</code></pre><p>Now, to build the website for deployment simply call:</p>
+<pre><code>hugo -D
+</code></pre><p>The outputted files will be in the <code>/public/</code> folder and you can copy those items to deploy in whatever hosting site you have.</p>
+
+</div>
+  <footer class="post-footer">
+  </footer>
+</article>
+    </main><footer class="footer">
+    <span>&copy; 2020 <a href="/">Akhil Peddikuppa</a></span>
+    
+</footer>
+<button class="top-link" id="top-link" type="button" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+        <path d="M12 6H0l6-6z" /></svg>
+</button>
+
+
+
+<script defer src="/assets/js/highlight.min.27cd435cc9ed6abb4b496581b151804f79f366c412620272bb94e2f5f598ebcc.js" integrity="sha256-J81DXMntartLSWWBsVGAT3nzZsQSYgJyu5Ti9fWY68w="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<script>
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+    mybutton.onclick = function () {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+        window.location.hash = ''
+    }
+
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+
+</body>
+
+</html>

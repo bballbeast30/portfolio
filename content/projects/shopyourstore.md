@@ -4,6 +4,8 @@ date: 2020-04-08
 draft: false
 weight: 1
 hidemeta: true
+cover:
+    image: https://q3p9g6n2.rocketcdn.me/wp-content/ml-loads/2015/12/ecommerce-shopping-retail-ss-1920.jpg
 ---
 
 - An Android and iOS ecommerce app that gives every user their own "store", so they can sell their items and other users can "shop their store".
