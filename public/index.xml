@@ -72,8 +72,7 @@ Level 0: No Automation These vehicles are the normal everyday cars that are manu
       <guid>/posts/2020/12/gettingstartedwithhugo/</guid>
       <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
 What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
-Step 1: Installation The easiest way to install Hugo is through Homebrew.
-You can do so using the command:</description>
+Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</description>
     </item>
     
     <item>
@@ -83,8 +82,8 @@ You can do so using the command:</description>
       
       <guid>/posts/2020/12/toolsandtech/</guid>
       <description>A Walkthrough of What I Use&amp;hellip; ☎️ Phone My current phone is the iPhone 11 Pro Max.
-💻 Laptop My laptop is the 2019 MacBook Pro. The specs are an i9 Processor, 16 gigs of RAM, a terabyte of storage, and an AMD Radeon Pro 5500M graphics card.
-⌨️ Keyboard My keyboard is the Royal Kludge RK61 Mechanical Keyboard.
+💻 Laptop My laptop is the 2019 MacBook Pro. The specs are:
+   Processor RAM Storage GPU     2.3 GHz Intel i9 16 GB 1 TB AMD Radeon Pro 5500M    ⌨️ Keyboard My keyboard is the Royal Kludge RK61 Mechanical Keyboard.
 🎧 Headphones The headphones I use are the original AirPods from Apple.</description>
     </item>
     

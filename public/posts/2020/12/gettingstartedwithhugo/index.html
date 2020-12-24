@@ -10,8 +10,7 @@
 <meta name="keywords" content="" />
 <meta name="description" content="This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
 What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
-Step 1: Installation The easiest way to install Hugo is through Homebrew.
-You can do so using the command:">
+Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.">
 <meta name="author" content="Akhil Peddikuppa">
 <link rel="canonical" href="/posts/2020/12/gettingstartedwithhugo/" />
 <link href="/assets/css/stylesheet.min.73cf800b78b59ea9098393ff8eb0b6012dad5c37388a7fef9f2ab1ed6bbef759.css" integrity="sha256-c8&#43;AC3i1nqkJg5P/jrC2AS2tXDc4in/vnyqx7Wu&#43;91k=" rel="preload stylesheet"
@@ -30,8 +29,7 @@ You can do so using the command:">
 <meta property="og:title" content="How to Get Started with Hugo" />
 <meta property="og:description" content="This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
 What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
-Step 1: Installation The easiest way to install Hugo is through Homebrew.
-You can do so using the command:" />
+Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/2020/12/gettingstartedwithhugo/" />
 <meta property="og:image" content="https://res.cloudinary.com/practicaldev/image/fetch/s--B35LQIoC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ickb9tcxbvbumven7r32.png" /><meta property="article:published_time" content="2020-12-22T00:00:00+00:00" />
@@ -41,8 +39,7 @@ You can do so using the command:" />
 <meta name="twitter:title" content="How to Get Started with Hugo"/>
 <meta name="twitter:description" content="This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
 What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
-Step 1: Installation The easiest way to install Hugo is through Homebrew.
-You can do so using the command:"/>
+Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier."/>
 
 <script type="application/ld+json">
 {
@@ -54,8 +51,8 @@ You can do so using the command:"/>
   "keywords": [
     
   ],
-  "articleBody": "This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.\nWhat is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.\nStep 1: Installation The easiest way to install Hugo is through Homebrew.\nYou can do so using the command:\nbrew install hugo Step 2: Create a site You can create a new site using the command:\nhugo new site blog Running this command will create a new site under the name “blog”. The folder will likely generate in your main hard drive folder, so I would recommend to move the folder into one for all your Hugo sites.\nStep 3: Let’s Add a Theme The Hugo Marketplace features a numerous amounts of themes to use all of which are for free. In this tutorial, we will use the PaperMod theme by Aditya Telange, which I use for this site.\nTo download the theme, you need to download the theme from Githun using these commands:\ncd blog git init git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod Then, we need to add the theme to our config.toml file using the commands:\necho 'theme = \"hugo-PaperMod\"'  config.toml Step 4: Add Content To create content in the Hugo website, we can run the command:\nhugo new posts/firstpost.md This will create a new folder called “posts” in the content folder with file name “firstpost.md”.\nIf you would not like to use command line instructions, you can simply just create a new folder under content and add a file, although I recommend using the command line as it can save a lot of time.\nThe new file will look a bit like:\n--- title: \"firstpost\" date: 2020-12-21T08:47:11+01:00 draft: true --- The title parameter will be the title of your blog post. For this template you can add a cover image by adding:\ncover: image: (insert image URL here) to the post data.\nStep 5: Starting the Server To start the Hugo server with drafts enabled use command:\nhugo server -D You will see the web server is available at http://localhost:1313/. Click the link to visit your site.\nStep 6: Theme Customization In order to customize this theme you can visit the config.toml file.\nThere you will see something like this:\nbaseURL = \"https://example.org/\" languageCode = \"en-us\" title = \"My New Hugo Site\" theme = \"hugo-PaperMod\" Here, you can change the title of your site, which depending on your theme will change different values.\nI will like the docs for this specific theme here.\nAnother great thing about Hugo is that you see changes made render in real time on the server.\nThe Final Step: Build and Deploy Your website Prior to deploying your site, I would advise you to go into your config.toml file and change the parameter that says:\nbaseURL = \"https://example.org/\" to\nbaseURL = \"/\" Now, to build the website for deployment simply call:\nhugo -D The outputted files will be in the /public/ folder and you can copy those items to deploy in whatever hosting site you have.\n",
-  "wordCount" : "528",
+  "articleBody": "This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.\nWhat is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.\nStep 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.\nTo install Homebrew, run the following command:\n/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\" The script will explain what it will do and then pause before it does it.\nTo install Hugo through Homebrew run:\nbrew install hugo Step 2: Create a site You can create a new site using the command:\nhugo new site blog Running this command will create a new site under the name “blog”. The folder will likely generate in your main hard drive folder, so I would recommend to move the folder into one for all your Hugo sites.\nStep 3: Let’s Add a Theme The Hugo Marketplace features a numerous amounts of themes to use all of which are for free. In this tutorial, we will use the PaperMod theme by Aditya Telange, which I use for this site.\nTo download the theme, you need to download the theme from Github using these commands:\ncd blog git init git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod Then, we need to add the theme to our config.toml file using the commands:\necho 'theme = \"hugo-PaperMod\"'  config.toml Step 4: Add Content To create content in the Hugo website, we can run the command:\nhugo new posts/firstpost.md This will create a new folder called “posts” in the content folder with file name “firstpost.md”.\nIf you would not like to use command line instructions, you can simply just create a new folder under content and add a file, although I recommend using the command line as it can save a lot of time.\nThe new file will look a bit like:\n--- title: \"firstpost\" date: 2020-12-21T08:47:11+01:00 draft: true --- The title parameter will be the title of your blog post. For this template you can add a cover image by adding:\ncover: image: (insert image URL here) to the post data.\nStep 5: Starting the Server To start the Hugo server with drafts enabled use command:\nhugo server -D You will see the web server is available at http://localhost:1313/. Click the link in the terminal to visit your site.\nStep 6: Theme Customization In order to customize this theme you can visit the config.toml file.\nThere you will see something like this:\nbaseURL = \"https://example.org/\" languageCode = \"en-us\" title = \"My New Hugo Site\" theme = \"hugo-PaperMod\" Here, you can change the title of your site, which depending on your theme will change different values.\nI will like the docs for this specific theme here.\nBelow you will see my config.toml file for this site to get an idea of what you can do:\nbaseURL = \"/\" languageCode = \"en-us\" title = \"Akhil Peddikuppa\" theme = \"hugo-PaperMod\" buildDrafts = false [params] env = \"production\" title = \"Akhil Peddikuppa\" author = \"Akhil Peddikuppa\" ShowReadingTime = true ShowShareButtons = false comments = false defaultTheme = \"auto\" disableThemeToggle = false [fuseOpts] isCaseSensitive = false shouldSort = true location = 0 distance = 1_000 threshold = 0.4 minMatchCharLength = 0 keys = [ \"title\", \"permalink\", \"summary\", \"content\" ] [params.label] text = \"Akhil Peddikuppa\" icon = \"/favicon.ico\" [params.profileMode] enabled = false title = \"Akhil Peddikuppa\" subtitle = \"High School Sophomore at the School For the Talented and Gifted\" imageUrl = \"https://www.w3schools.com/w3css/img_lights.jpg\" imageWidth = 250 imageHeight = 250 [[params.profileMode.buttons]] name = \"About Me\" url = \"about\" [[params.profileMode.buttons]] name = \"Projects\" url = \"Projects\" [[params.profileMode.buttons]] name = \"Resume\" url = \"Resume\" [[params.profileMode.buttons]] name = \"My Tech\" url = \"tech\" [[params.profileMode.buttons]] name = \"Posts\" url = \"posts\" [params.homeInfoParams] Title = \"Hi there 👋\" Content = \"My name is Akhil. I'm a High School Sophomore at the School for the Talented and Gifted in Dallas, Texas. I am interested in medicine, tech, and economics. If you would like to know more about me, you can click [this link to visit my page about me](/about/).\" [[params.socialIcons]] name = \"email\" url = \"mailto:akhil.peddikuppa@outlook.com\" [[params.socialIcons]] name = \"twitter\" url = \"https://twitter.com/bballbeast301\" [[params.socialIcons]] name = \"youtube\" url = \"https://www.youtube.com/channel/UCQb004LW6mQhC_ONxAIaJTw?view_as=subscriber\" [[params.socialIcons]] name = \"github\" url = \"https://github.com/bballbeast30\" [params.cover] responsiveImages = true [menu] [[menu.main]] identifier = \"home\" name = \"🏠 Home\" url = \"/\" weight = 5 [[menu.main]] identifier = \"about\" name = \"👨🏾‍⚕️ About Me\" url = \"/about/\" weight = 10 [[menu.main]] identifier = \"projects\" name = \"💼 Projects\" url = \"/projects/\" weight = 20 [[menu.main]] identifier = \"posts\" name = \"📌 Posts\" url = \"/posts/\" weight = 30 [[menu.main]] identifier = \"resume\" name = \"📃 Resume\" url = \"/resume/\" weight = 25 [[menu.main]] identifier = \"search\" name = \"🔍 Search\" url = \"/search/\" weight = 50 [outputs] home = [ \"HTML\", \"RSS\", \"JSON\" ] Another great thing about Hugo is that you see changes made render in real time on the server.\nThe Final Step: Build and Deploy Your website Prior to deploying your site, I would advise you to go into your config.toml file and change the parameter that says:\nbaseURL = \"https://example.org/\" to\nbaseURL = \"/\" Now, to build the website for deployment with your drafts simply call:\nhugo -D If you would like to build without drafts run\nhugo The outputted files will be in the /public/ folder and you can copy those items to deploy in whatever hosting site you have.\n",
+  "wordCount" : "928",
   "inLanguage": "en",
   "image":"https://res.cloudinary.com/practicaldev/image/fetch/s--B35LQIoC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ickb9tcxbvbumven7r32.png","datePublished": "2020-12-22T00:00:00Z",
   "dateModified": "2020-12-22T00:00:00Z",
@@ -177,7 +174,7 @@ You can do so using the command:"/>
     </h1>
     <div class="post-meta">
 
-December 22, 2020&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Akhil Peddikuppa
+December 22, 2020&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Akhil Peddikuppa
 
     </div>
   </header> 
@@ -190,8 +187,11 @@ December 22, 2020&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Akhil Peddikuppa
 <h2 id="what-is-hugo">What is Hugo?<a hidden class="anchor" aria-hidden="true" href="#what-is-hugo">#</a></h2>
 <p>Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.</p>
 <h2 id="step-1-installation">Step 1: Installation<a hidden class="anchor" aria-hidden="true" href="#step-1-installation">#</a></h2>
-<p>The easiest way to install Hugo is through Homebrew.<br>
-You can do so using the command:</p>
+<p>The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</p>
+<p>To install Homebrew, run the following command:</p>
+<pre><code>/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&quot;
+</code></pre><p>The script will explain what it will do and then pause before it does it.</p>
+<p>To install Hugo through Homebrew run:</p>
 <pre><code>brew install hugo
 </code></pre><h2 id="step-2-create-a-site">Step 2: Create a site<a hidden class="anchor" aria-hidden="true" href="#step-2-create-a-site">#</a></h2>
 <p>You can create a new site using the command:</p>
@@ -199,7 +199,7 @@ You can do so using the command:</p>
 </code></pre><p>Running this command will create a new site under the name &ldquo;blog&rdquo;. The folder will likely generate in your main hard drive folder, so I would recommend to move the folder into one for all your Hugo sites.</p>
 <h2 id="step-3-lets-add-a-theme">Step 3: Let&rsquo;s Add a Theme<a hidden class="anchor" aria-hidden="true" href="#step-3-lets-add-a-theme">#</a></h2>
 <p>The Hugo Marketplace features a numerous amounts of <a href="https://themes.gohugo.io">themes</a> to use all of which are for free. In this tutorial, we will use the PaperMod theme by Aditya Telange, which I use for this site.</p>
-<p>To download the theme, you need to download the theme from Githun using these commands:</p>
+<p>To download the theme, you need to download the theme from Github using these commands:</p>
 <pre><code>cd blog
 git init
 git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod
@@ -223,7 +223,7 @@ draft: true
 <h2 id="step-5-starting-the-server">Step 5: Starting the Server<a hidden class="anchor" aria-hidden="true" href="#step-5-starting-the-server">#</a></h2>
 <p>To start the Hugo server with drafts enabled use command:</p>
 <pre><code>hugo server -D
-</code></pre><p>You will see the web server is available at <a href="http://localhost:1313/">http://localhost:1313/</a>. Click the link to visit your site.</p>
+</code></pre><p>You will see the web server is available at <a href="http://localhost:1313/">http://localhost:1313/</a>. Click the link in the terminal to visit your site.</p>
 <h2 id="step-6-theme-customization">Step 6: Theme Customization<a hidden class="anchor" aria-hidden="true" href="#step-6-theme-customization">#</a></h2>
 <p>In order to customize this theme you can visit the config.toml file.</p>
 <p>There you will see something like this:</p>
@@ -233,14 +233,137 @@ title = &quot;My New Hugo Site&quot;
 theme = &quot;hugo-PaperMod&quot;
 </code></pre><p>Here, you can change the title of your site, which depending on your theme will change different values.</p>
 <p>I will like the docs for this specific theme <a href="https://adityatelange.github.io/hugo-PaperMod/">here</a>.</p>
-<p>Another great thing about Hugo is that you see changes made render in real time on the server.</p>
+<p>Below you will see my config.toml file for this site to get an idea of what you can do:</p>
+<pre><code>baseURL = &quot;/&quot;
+languageCode = &quot;en-us&quot;
+title = &quot;Akhil Peddikuppa&quot;
+theme = &quot;hugo-PaperMod&quot;
+buildDrafts = false
+[params]
+env = &quot;production&quot;
+title = &quot;Akhil Peddikuppa&quot;
+author = &quot;Akhil Peddikuppa&quot;
+ShowReadingTime = true
+ShowShareButtons = false
+comments = false
+defaultTheme = &quot;auto&quot;
+disableThemeToggle = false
+
+[fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ &quot;title&quot;, &quot;permalink&quot;, &quot;summary&quot;, &quot;content&quot; ]
+  
+
+  [params.label]
+  text = &quot;Akhil Peddikuppa&quot;
+  icon = &quot;/favicon.ico&quot;
+  
+  
+[params.profileMode]
+  enabled = false
+  title = &quot;Akhil Peddikuppa&quot;
+  subtitle = &quot;High School Sophomore at the School For the Talented and Gifted&quot;
+  imageUrl = &quot;https://www.w3schools.com/w3css/img_lights.jpg&quot;
+  imageWidth = 250
+  imageHeight = 250
+    [[params.profileMode.buttons]]
+    name = &quot;About Me&quot;
+    url = &quot;about&quot;
+    
+
+    [[params.profileMode.buttons]]
+    name = &quot;Projects&quot;
+    url = &quot;Projects&quot;
+
+    [[params.profileMode.buttons]]
+    name = &quot;Resume&quot;
+    url = &quot;Resume&quot;
+
+    [[params.profileMode.buttons]]
+    name = &quot;My Tech&quot;
+    url = &quot;tech&quot;
+    [[params.profileMode.buttons]]
+    name = &quot;Posts&quot;
+    url = &quot;posts&quot;
+
+  [params.homeInfoParams]
+  Title = &quot;Hi there 👋&quot;
+  Content = &quot;My name is Akhil. I'm a High School Sophomore at the School for the Talented and Gifted in Dallas, Texas. I am interested in medicine, tech, and economics. If you would like to know more about me, you can click [this link to visit my page about me](/about/).&quot;
+  
+  
+  [[params.socialIcons]]
+  name = &quot;email&quot;
+  url = &quot;mailto:akhil.peddikuppa@outlook.com&quot;
+  [[params.socialIcons]]
+  name = &quot;twitter&quot;
+  url = &quot;https://twitter.com/bballbeast301&quot;
+
+  [[params.socialIcons]]
+  name = &quot;youtube&quot;
+  url = &quot;https://www.youtube.com/channel/UCQb004LW6mQhC_ONxAIaJTw?view_as=subscriber&quot;
+
+  [[params.socialIcons]]
+  name = &quot;github&quot;
+  url = &quot;https://github.com/bballbeast30&quot;
+
+  
+
+  [params.cover]
+  responsiveImages = true
+
+[menu]
+[[menu.main]]
+identifier = &quot;home&quot;
+name = &quot;🏠 Home&quot;
+url = &quot;/&quot;
+weight = 5
+[[menu.main]]
+identifier = &quot;about&quot;
+name = &quot;👨🏾‍⚕️ About Me&quot;
+url = &quot;/about/&quot;
+weight = 10
+
+[[menu.main]]
+identifier = &quot;projects&quot;
+name = &quot;💼 Projects&quot;
+url = &quot;/projects/&quot;
+weight = 20
+
+[[menu.main]]
+identifier = &quot;posts&quot;
+name = &quot;📌 Posts&quot;
+url = &quot;/posts/&quot;
+weight = 30
+
+[[menu.main]]
+identifier = &quot;resume&quot;
+name = &quot;📃 Resume&quot;
+url = &quot;/resume/&quot;
+weight = 25
+
+[[menu.main]]
+identifier = &quot;search&quot;
+name = &quot;🔍 Search&quot;
+url = &quot;/search/&quot;
+weight = 50
+
+[outputs]
+home = [ &quot;HTML&quot;, &quot;RSS&quot;, &quot;JSON&quot; ]
+</code></pre><p>Another great thing about Hugo is that you see changes made render in real time on the server.</p>
 <h2 id="the-final-step-build-and-deploy-your-website">The Final Step: Build and Deploy Your website<a hidden class="anchor" aria-hidden="true" href="#the-final-step-build-and-deploy-your-website">#</a></h2>
 <p>Prior to deploying your site, I would advise you to go into your config.toml file and change the parameter that says:</p>
 <pre><code>baseURL = &quot;https://example.org/&quot;
 </code></pre><p>to</p>
 <pre><code>baseURL = &quot;/&quot;
-</code></pre><p>Now, to build the website for deployment simply call:</p>
+</code></pre><p>Now, to build the website for deployment with your drafts simply call:</p>
 <pre><code>hugo -D
+</code></pre><p>If you would like to build without drafts run</p>
+<pre><code>hugo
 </code></pre><p>The outputted files will be in the <code>/public/</code> folder and you can copy those items to deploy in whatever hosting site you have.</p>
 
 </div>

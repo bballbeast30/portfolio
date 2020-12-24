@@ -16,7 +16,10 @@ My current phone is the iPhone 11 Pro Max.
 
 ### 💻 Laptop
 
-My laptop is the [2019 MacBook Pro](https://www.apple.com/macbook-pro-16/). The specs are an i9 Processor, 16 gigs of RAM, a terabyte of storage, and an AMD Radeon Pro 5500M graphics card.
+My laptop is the [2019 MacBook Pro](https://www.apple.com/macbook-pro-16/). The specs are:
+|Processor|RAM|Storage|GPU|
+|---|---|---|---|
+|2.3 GHz Intel i9|16 GB|1 TB|AMD Radeon Pro 5500M|
 
 ### ⌨️ Keyboard
 
