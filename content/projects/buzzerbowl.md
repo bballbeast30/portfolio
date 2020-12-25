@@ -11,3 +11,5 @@ hidemeta: true
 - Functionality includes ability to create or join games, practice, live buzzing, and native text-to-speech functionality for iOS, Android, MacOS, and Web.
 
 - Front end made using the Flutter SDK and backend made using Cloud Firestore
+
+- Note: This app is in progress

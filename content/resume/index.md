@@ -1,7 +1,7 @@
 ---
+title: "Akhil Peddikuppa"
 hidemeta: true
 ---
-# Akhil Peddikuppa
 
 📧  - [akhil.peddikuppa@outlook.com](mailto:akhil.peddikuppa@outlook.com)
 
@@ -78,6 +78,9 @@ Have developed time management skills in order to participate in extracurricular
 ### DukeTIP
 
 - Participated in the Duke Talent Identification Program
+
+### PSIA
+- Consistently placed top 3 in competitions for Math, Number Sense, and Spelling at the district level
 
 ## 🏀 Extracurriculars
 

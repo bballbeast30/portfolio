@@ -18,12 +18,13 @@ What is Quiz Bowl?
 > and more.
 
 {{< youtube Z1_AfFYGORQ >}}
+This video is from the NAQT, which is an organization that provides Quiz
+Bowl questions.
 
 How does Quiz Bowl work? 
 ========================
 
-This video is from the NAQT, which is an organization that provides Quiz
-Bowl questions.
+
 
 Questions are read by a **moderator** and players buzz in when they
 think they know the answer.
@@ -44,24 +45,6 @@ When do we meet? {#282f702d-f4e1-4c0e-bc24-26bd2bdb80a2}
 Due to coronavirus, we have been meeting online through **Discord** to
 conduct practice on Mondays from 5 - 7 PM.
 
-How can I practice? {#3e62d1b6-99e8-4cd6-bf30-b1052348452a}
-===================
-
-There is this website called [Protobowl](http://protobowl.com), which
-many people in Quiz Bowl use to practice.
-
-The NAQT has a game called [Buzzword](https://www.naqt.com/buzzword/),
-which is an audio game you can play to improve your quiz bowl skills.
-There are sample games in the link provided, and if you would like, you
-can make an NAQT account to compete in some of their tournaments. The
-sample games are very similar to how real quiz bowl games will be read,
-so it would be good practice to try them or just to see how you feel
-playing Quiz Bowl.
-
-Another resource is [quizbowlpackets.com](http://quizbowlpackets.com),
-which is website where many packets from prominent Quiz Bowl
-institutions are posted so that you can practice with them.
-
 Here are some sample questions from each major category: {#a778c307-3894-4668-8c84-38298e25f4ce}
 ========================================================
 
@@ -78,7 +61,7 @@ Great Wall.
 **ANSWER**: **People's Republic of China** (accept Middle Kingdom;
 accept Zhongguo)
 
-Science {#3c58b6fc-ab61-43d0-b0ae-33d7c1b16c18}
+Science 
 -------
 
 **These objects can be formed when the Tolman-Oppenheimer-Volkovv limit
@@ -148,6 +131,24 @@ Eleven. For ten points, name this 1980s-nostalgia mystery show produced
 by Netflix.
 
 **ANSWER**: **Stranger Things**
+
+How can I practice?
+===================
+
+There is this website called [Protobowl](http://protobowl.com), which
+many people in Quiz Bowl use to practice.
+
+The NAQT has a game called [Buzzword](https://www.naqt.com/buzzword/),
+which is an audio game you can play to improve your quiz bowl skills.
+There are sample games in the link provided, and if you would like, you
+can make an NAQT account to compete in some of their tournaments. The
+sample games are very similar to how real quiz bowl games will be read,
+so it would be good practice to try them or just to see how you feel
+playing Quiz Bowl.
+
+Another resource is [the High School Quiz Bowl Packet Archive](http://quizbowlpackets.com),
+which is website where many packets from prominent Quiz Bowl
+institutions are posted so that you can practice with them.
 
 When are the tournaments? {#4d8813c9-14f6-4539-86f5-dee54b9e1700}
 =========================

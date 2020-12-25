@@ -13,3 +13,5 @@ cover:
 - This project is geared at people who want to sell off old clothes and those you don't have the means to run their own website due to cost.
 
 - This app was built with the [Flutter](https://flutter.dev/) SDK as the front end and [Cloud Firestore](https://firebase.google.com/docs/firestore) as the backend.
+
+- Note: This app is in progress

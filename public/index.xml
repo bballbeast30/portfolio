@@ -25,8 +25,8 @@
       
       <guid>/posts/2020/4/quizbowlintro/</guid>
       <description>What is Quiz Bowl?  Quiz Bowl is an academic competition in which two teams compete to answer questions from all areas of knowledge, including history, literature, science, fine arts, current events, pop culture, sports, and more.
-   How does Quiz Bowl work? This video is from the NAQT, which is an organization that provides Quiz Bowl questions.
-Questions are read by a moderator and players buzz in when they think they know the answer.</description>
+    This video is from the NAQT, which is an organization that provides Quiz Bowl questions.
+How does Quiz Bowl work? Questions are read by a moderator and players buzz in when they think they know the answer.</description>
     </item>
     
     <item>
@@ -61,6 +61,7 @@ Level 0: No Automation These vehicles are the normal everyday cars that are manu
       <description>  An app for quizbowl players to practice quiz bowl questions
   Functionality includes ability to create or join games, practice, live buzzing, and native text-to-speech functionality for iOS, Android, MacOS, and Web.
   Front end made using the Flutter SDK and backend made using Cloud Firestore
+  Note: This app is in progress
   </description>
     </item>
     
@@ -138,19 +139,6 @@ What is DaVinci Resolve? If you take a look at the main video-editing softwares 
     </item>
     
     <item>
-      <title></title>
-      <link>/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/resume/</guid>
-      <description>Akhil Peddikuppa 📧 - akhil.peddikuppa@outlook.com
-📞 - 469-290-2670
- Responsible and hard working student (4.0 GPA) with excellent time management and exceptional organization skills that enable me to succeed in school. Possesses a strong work ethic and growth mindset which helps me and others around me to succeed.
- 🛠 Technical Skills Web Design/Programming HTML, CSS, Javascript, Dart, Java, Python, SQL, Swift
-App Development Built iOS, Android, MacOS, and web apps with the Flutter SDK using the Dart programming language.</description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -158,6 +146,19 @@ App Development Built iOS, Android, MacOS, and web apps with the Flutter SDK usi
       <guid>/about/</guid>
       <description>My name is Akhil Peddikuppa and I am currently a sophomore at the School for the Talented and Gifted in Dallas, Texas. I&amp;rsquo;m 15 years old and intending to study medicine in the future and incorporate my interest of technology with it.
 I&amp;rsquo;ve always been interesting in creating my own things whether it be an app, videos, or music. Recently, I&amp;rsquo;ve been researching peer to peer networking and especially decentralized network protocols with technology like IPFS or the InterPlanetary File System.</description>
+    </item>
+    
+    <item>
+      <title>Akhil Peddikuppa</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>📧 - akhil.peddikuppa@outlook.com
+📞 - 469-290-2670
+ Responsible and hard working student (4.0 GPA) with excellent time management and exceptional organization skills that enable me to succeed in school. Possesses a strong work ethic and growth mindset which helps me and others around me to succeed.
+ 🛠 Technical Skills Web Design/Programming HTML, CSS, Javascript, Dart, Java, Python, SQL, Swift
+App Development Built iOS, Android, MacOS, and web apps with the Flutter SDK using the Dart programming language.</description>
     </item>
     
     <item>

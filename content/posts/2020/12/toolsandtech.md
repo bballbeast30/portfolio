@@ -21,6 +21,7 @@ My laptop is the [2019 MacBook Pro](https://www.apple.com/macbook-pro-16/). The 
 |---|---|---|---|
 |2.3 GHz Intel i9|16 GB|1 TB|AMD Radeon Pro 5500M|
 
+
 ### ⌨️ Keyboard
 
 My keyboard is the [Royal Kludge RK61 Mechanical Keyboard](https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Multi-Device/dp/B08D8WFFXC/ref=sr_1_15?dchild=1&keywords=royal+kludge+rk61+mechanical+keyboard&qid=1608661998&sr=8-15).
@@ -48,10 +49,10 @@ I use Notion for my notetaking and planning.
 
 ---
 
-### 🔍 Brave
+### 🔍 Mozilla Firefox
 
-My browser of choice is the [Brave Browser](https://brave.com/). Brave comes with ad block built in and a clean UI. Brave is built on Chromium which means Chrome extensions will also work.
-{{< figure src="https://www.slashgear.com/wp-content/uploads/2020/06/brave-browser.jpg" title="" >}}
+My browser of choice is [Firefox](https://mozilla.org/). Firefox is open source and free and has many features that keep your computer secure while browsing. The browser also isn't built on Chromium, so if you want limit the amount of Google in your workflow, this would be a pretty good choice.
+{{< figure src="https://www.lifewire.com/thmb/M0eUm2gkDCaCfd_j1WNe_p7HE9g=/1024x767/filters:fill(auto,1)/how-to-use-firefox-for-mac-4588443-1-5c78a80b46e0fb00019b8d86.JPG" title="" >}}
 
 ---
 
