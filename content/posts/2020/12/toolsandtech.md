@@ -29,7 +29,7 @@ My keyboard is the [Royal Kludge RK61 Mechanical Keyboard](https://www.amazon.co
 
 ### 🎧 Headphones
 
-The headphones I use are the original [AirPods](https://www.apple.com/airpods/) from Apple. I got a pair in 2018 as a birthday gift, and they've been pretty nice for listening and simply because of how easy they are to use.
+The headphones I use are the original [AirPods](https://www.apple.com/airpods/) from Apple. 
 
 ---
 
@@ -37,21 +37,21 @@ Now onto the software...
 
 ### 🎥 Davinci Resolve 17
 
-**DaVinci Resolve 17** is my video editor of choice because it is free and offers professional grade features such as color grading, motion tracking, and much more. [If you haven't seen my DaVinci Resolve article, here it is.](/posts/favoritefreevideoediting)
+[DaVinci Resolve 17](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew) is my video editor of choice because it is free and offers professional grade features such as color grading, motion tracking, and much more. [If you haven't seen my DaVinci Resolve article, here it is.](/posts/2020/4/favoritefreevideoediting/)
 {{< figure src="https://www.dpreview.com/files/p/articles/8254304053/davinci-resolve-17-banner.jpeg" title="" >}}
 
 ---
 
 ### ✍🏾 Notion
 
-I use Notion for my notetaking and planning.
+I use [Notion](https://www.notion.so/desktop) for my notetaking and planning.
 {{< figure src="https://prod-notion-assets.s3-us-west-2.amazonaws.com/front/work/carousel-desktop/tasks-v5/en-US.png" title="" >}}
 
 ---
 
 ### 🔍 Mozilla Firefox
 
-My browser of choice is [Firefox](https://mozilla.org/). Firefox is open source and free and has many features that keep your computer secure while browsing. The browser also isn't built on Chromium, so if you want limit the amount of Google in your workflow, this would be a pretty good choice.
+My browser of choice is [Firefox](https://www.mozilla.org/en-US/firefox/new/). Firefox is open source and free and has many features that keep your computer secure while browsing. The browser also isn't built on Chromium, so if you want limit the amount of Google in your workflow, this would be a pretty good choice.
 {{< figure src="https://www.lifewire.com/thmb/M0eUm2gkDCaCfd_j1WNe_p7HE9g=/1024x767/filters:fill(auto,1)/how-to-use-firefox-for-mac-4588443-1-5c78a80b46e0fb00019b8d86.JPG" title="" >}}
 
 ---

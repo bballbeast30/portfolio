@@ -13,7 +13,7 @@
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/shopyourstore/</guid>
-      <description>An Android and iOS ecommerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and other users can &amp;ldquo;shop their store&amp;rdquo;.
+      <description>Note: This app is in progress   An Android and iOS ecommerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and other users can &amp;ldquo;shop their store&amp;rdquo;.
   This project is geared at people who want to sell off old clothes and those you don&amp;rsquo;t have the means to run their own website due to cost.
   This app was built with the Flutter SDK as the front end and Cloud Firestore as the backend.</description>
     </item>
@@ -27,6 +27,17 @@
       <description>What is Quiz Bowl?  Quiz Bowl is an academic competition in which two teams compete to answer questions from all areas of knowledge, including history, literature, science, fine arts, current events, pop culture, sports, and more.
     This video is from the NAQT, which is an organization that provides Quiz Bowl questions.
 How does Quiz Bowl work? Questions are read by a moderator and players buzz in when they think they know the answer.</description>
+    </item>
+    
+    <item>
+      <title>How to Get Started with Hugo</title>
+      <link>/posts/2020/12/gettingstartedwithhugo/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/12/gettingstartedwithhugo/</guid>
+      <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
+What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
+Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</description>
     </item>
     
     <item>
@@ -58,22 +69,10 @@ Level 0: No Automation These vehicles are the normal everyday cars that are manu
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/buzzerbowl/</guid>
-      <description>  An app for quizbowl players to practice quiz bowl questions
+      <description>Note: This app is in progress   An app for quizbowl players to practice quiz bowl questions
   Functionality includes ability to create or join games, practice, live buzzing, and native text-to-speech functionality for iOS, Android, MacOS, and Web.
   Front end made using the Flutter SDK and backend made using Cloud Firestore
-  Note: This app is in progress
   </description>
-    </item>
-    
-    <item>
-      <title>How to Get Started with Hugo</title>
-      <link>/posts/2020/12/gettingstartedwithhugo/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/12/gettingstartedwithhugo/</guid>
-      <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
-What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
-Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</description>
     </item>
     
     <item>

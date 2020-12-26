@@ -19,17 +19,6 @@ How does Quiz Bowl work? Questions are read by a moderator and players buzz in w
     </item>
     
     <item>
-      <title>The Levels of Vehicle Automation in 3 Minutes</title>
-      <link>/posts/2020/5/levelsofvehicleautomation/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/5/levelsofvehicleautomation/</guid>
-      <description>With automation and especially automation in cars becoming more present in everyday life, it is important to know the concepts associated with the new technology that will one day be all around us.
-Here are the levels of vehicle automation in 3 minutes.
-Level 0: No Automation These vehicles are the normal everyday cars that are manually controlled and ones that you most likely own. Almost all cars available fall in this category.</description>
-    </item>
-    
-    <item>
       <title>How to Get Started with Hugo</title>
       <link>/posts/2020/12/gettingstartedwithhugo/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
@@ -38,6 +27,17 @@ Level 0: No Automation These vehicles are the normal everyday cars that are manu
       <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
 What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
 Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</description>
+    </item>
+    
+    <item>
+      <title>The Levels of Vehicle Automation in 3 Minutes</title>
+      <link>/posts/2020/5/levelsofvehicleautomation/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/5/levelsofvehicleautomation/</guid>
+      <description>With automation and especially automation in cars becoming more present in everyday life, it is important to know the concepts associated with the new technology that will one day be all around us.
+Here are the levels of vehicle automation in 3 minutes.
+Level 0: No Automation These vehicles are the normal everyday cars that are manually controlled and ones that you most likely own. Almost all cars available fall in this category.</description>
     </item>
     
     <item>

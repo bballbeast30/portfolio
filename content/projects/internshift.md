@@ -20,4 +20,3 @@ cover:
 
 {{< youtube GElXGkyeOH8 >}}  
 
-{{< figure src="/img/internshift.gif" title="" >}}
