@@ -67,3 +67,10 @@ The IDE I use for app development and for making this website is [Visual Studio 
 
 [Alfred](https://www.alfredapp.com/) is a great tool for navigating MacOS. It is very similar to Spotlight, however, Alfred is a lot faster than Spotlight and has a lot more features.
 {{< figure src="https://pbs.twimg.com/media/EpSnYH9XIAAKPrg.jpg" title="" >}}
+
+
+### 📺 OBS
+
+I use [OBS](https://obsproject.com/) as my screen recorder because it is free, open source, and offers many features including screen recording and streaming to Twitch or Youtube.
+
+{{< figure src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/03/obs-studio-screenshot.jpg" title="">}}
