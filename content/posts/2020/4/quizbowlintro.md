@@ -12,45 +12,48 @@ weight: 1
 What is Quiz Bowl? 
 ==================
 
-> Quiz Bowl is an academic competition in which two teams compete to
+> Quiz Bowl is an **academic competition** in which two teams compete to
 > answer questions from all areas of knowledge, including history,
 > literature, science, fine arts, current events, pop culture, sports,
 > and more.
 
 {{< youtube Z1_AfFYGORQ >}}
-This video is from the NAQT, which is an organization that provides Quiz
-Bowl questions.
+##### This video is from the NAQT, which is an organization that provides Quiz Bowl questions.
+
+---
 
 How does Quiz Bowl work? 
 ========================
 
+Quiz Bowl is unique in the sense that it is an academic competition in which you don't take a test for, but, instead, you buzz in to answer questions, which makes tournaments an enjoyable experience.
 
+Here's how it works:
 
-Questions are read by a **moderator** and players buzz in when they
+- Questions are read by a **moderator** and players buzz in when they
 think they know the answer.
 
-"**Tossup**" questions are questions that are to be answered
+- "**Tossup**" questions are questions that are to be answered
 individually, but once answered they lead to three "**bonus**" questions
 which can be answered as a team collectively.
 
-Each tossup question is worth 10 points and if answered within the
+- Each tossup question is worth 10 points and if answered within the
 bolded section of the tossup question, the player is awarded an extra 5
 points in addition to the 10 which is called a "**power**".
 
-Each bonus question is worth 10 points.
+- Each bonus question is worth 10 points.
 
-Quiz Bowl is unique in the sense that it is an academic competition that you don't take a test for, but, instead, you buzz in to answer questions, which makes tournaments an enjoyable experience.
+---
 
-When do we meet? {#282f702d-f4e1-4c0e-bc24-26bd2bdb80a2}
-================
+# When do we meet?
 
-Due to coronavirus, we have been meeting online through **Discord** to
+
+Due to COVID, we have been meeting online through **Discord** to
 conduct practice on Mondays from 5 - 7 PM.
 
-Here are some sample questions from each major category: {#a778c307-3894-4668-8c84-38298e25f4ce}
-========================================================
+---
+## Here are some sample questions from each major category: 
 
-History {#b166194f-4e77-4453-9cbf-356ac39cf35d}
+History 
 -------
 
 **Monks in this country accidentally altered the dangerous confluence of
@@ -74,7 +77,7 @@ from them. For ten points, name these extremely dark objects in space.
 
 **ANSWER**: **black holes**
 
-Fine Arts {#98ea7a3d-995a-4618-af4f-ad6588ccfdf0}
+Fine Arts 
 ---------
 
 **The guqin is a Chinese member of this instrument family, which also
@@ -96,7 +99,7 @@ with his nemesis, Professor Moriarty. For ten points, name this
 detective created by Sir Arthur Conan Doyle, who resides at 221B Baker
 Street with John Watson.
 
-**ANSWER**: **Sherlock Holmes** (accept either underlined name)
+**ANSWER**: **Sherlock Holmes** (accept either name)
 
 Geography {#d055cee2-59fb-469c-ace4-e4a396cad4e3}
 ---------
@@ -134,6 +137,8 @@ by Netflix.
 
 **ANSWER**: **Stranger Things**
 
+---
+
 How can I practice?
 ===================
 
@@ -152,12 +157,16 @@ Another resource is [the High School Quiz Bowl Packet Archive](http://quizbowlpa
 which is website where many packets from prominent Quiz Bowl
 institutions are posted so that you can practice with them.
 
+---
+
 When are the tournaments? {#4d8813c9-14f6-4539-86f5-dee54b9e1700}
 =========================
 
-Because of coronavirus, many of the planned competitions have been
+Because of COVID, many of the planned competitions have been
 canceled, but there are some online tournaments that are going to
 available to join; some of which we will compete in.
+
+---
 
 Any questions? {#b7bd26fb-90dc-4703-9829-af7b6e6e85f5}
 ==============
