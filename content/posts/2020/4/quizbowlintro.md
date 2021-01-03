@@ -5,6 +5,7 @@ draft: false
 cover: 
     image: https://images.unsplash.com/photo-1553481187-be93c21490a9?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjYzOTIxfQ
 weight: 1
+showToc: true
 ---
 
 
@@ -89,7 +90,7 @@ family of instruments that includes guitars and violins.
 **ANSWER**: **string instruments** (accept chordophones; accept word
 forms; accept zither before mentioned)
 
-Literature {#c468dbdd-8d96-405e-9536-238841d1d87b}
+Literature
 ----------
 
 **This character is introduced by Stamford, and discovers that the
@@ -125,7 +126,7 @@ Nemean lion as one of his twelve labors.
 
 **ANSWER**: **Hercules** (accept Hercules until "Greek" is read)
 
-Trash {#d3d6bbf8-5986-4c53-8996-963f77511a54}
+Trash 
 -----
 
 **On this show, Joyce tries to communicate with Will by chopping through
@@ -142,6 +143,8 @@ by Netflix.
 How can I practice?
 ===================
 
+Due to Quiz Bowl being a competition, people study and practice to increase their knowledge of a topic in order to win games. Studying or practicing is up to you, but your team will be counting on you to know your category, so it would be helpful if you practiced a bit.
+
 There is this website called [Protobowl](http://protobowl.com), which
 many people in Quiz Bowl use to practice.
 
@@ -153,14 +156,27 @@ sample games are very similar to how real quiz bowl games will be read,
 so it would be good practice to try them or just to see how you feel
 playing Quiz Bowl.
 
+## Here are some quizlet sets you could practice:
+
+### History
+- [Jaik's European History Flashcards](https://quizlet.com/442317442/european-flash-cards/?i=lpd3o&x=1jqY)
+- [Jaik's Country History Flashcards](https://quizlet.com/342108386/countries-flash-cards/?i=lpd3o&x=1jqY)
+- [Jaik's City History Flashcards](https://quizlet.com/424122075/cities-flash-cards/?i=lpd3o&x=1jqY)
+
+### Science
+- [Ketan's Protobowl Clues Flashcards](https://quizlet.com/426227147/protobowl-clues-flash-cards/)
+- [Ketan's People/Equations/Experiments/Quantities Flashcards](https://quizlet.com/478384778/peopleequationsexperimentsquantities-flash-cards/?x=1jqt)
+
+### Audio Fine Arts
+- [Ketan's Audio Fine Arts Flashcards](https://quizlet.com/478375579/afa-flash-cards/)
+
 Another resource is [the High School Quiz Bowl Packet Archive](http://quizbowlpackets.com),
 which is website where many packets from prominent Quiz Bowl
 institutions are posted so that you can practice with them.
 
 ---
 
-When are the tournaments? {#4d8813c9-14f6-4539-86f5-dee54b9e1700}
-=========================
+# When are the tournaments? 
 
 Because of COVID, many of the planned competitions have been
 canceled, but there are some online tournaments that are going to
@@ -168,7 +184,7 @@ available to join; some of which we will compete in.
 
 ---
 
-Any questions? {#b7bd26fb-90dc-4703-9829-af7b6e6e85f5}
+Any questions?
 ==============
 
 If you have any questions feel free to contact me or Ketan at
@@ -177,8 +193,11 @@ If you have any questions feel free to contact me or Ketan at
 
 -   [ketan.pamurthy@tagmagnet.org](mailto:ketan.pamurthy@tagmagnet.org)
 
-Want to Join? {#bf2a0d04-9ef4-4eaf-9caf-d7e9b992aee7}
+---
+
+Want to Join?
 =============
 
 [Click this link to join the TAG Quiz Bowl Team Discord
 Server.](https://discord.gg/qR7HwQ8fBZ)
+

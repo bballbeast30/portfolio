@@ -41,7 +41,7 @@ Experience with Final Cut Pro X, DaVinci Resolve 16, and Audacity
 
 Have developed time management skills in order to participate in extracurricular activities and maintain good grades
 
-
+---
 
 ## 🏆 Honors & Awards
 
@@ -58,6 +58,10 @@ Have developed time management skills in order to participate in extracurricular
 
 - Two-time School Champion of the National Geography Bee
 
+### Scripps Spelling Bee
+
+- Repeatedly competed at **county** level of Scripps Spelling Bee
+
 ### Congressional App Challenge
 
 - Placed **2nd** in TX-30 with [Internshift](/projects/internshift)
@@ -66,11 +70,7 @@ Have developed time management skills in order to participate in extracurricular
 
 - Placed **2nd** in DISD's JV Debate Competition
 - Repeatedly placed in Varsity Debate Competitions
-- Placed **3rd** in DISD's [Criminal Justice Reform Essay Competition](/posts/2020/8/criminal-justice-reform-essay-_-negative/)
-
-### Scripps Spelling Bee
-
-- Repeatedly competed at **county** level of Scripps Spelling Bee
+- Placed **3rd** in DISD's [Criminal Justice Reform Essay Competition](/files/CriminalJusticeReformEssayFinal.pdf)
 
 ### South Asian Spelling Bee
 - Placed 8th
@@ -79,8 +79,14 @@ Have developed time management skills in order to participate in extracurricular
 
 - Participated in the Duke Talent Identification Program
 
+### GEMUN
+
+- Represented school as Cote D'Ivoire in ECOSOC and received Honorary Mention
+
 ### PSIA
 - Consistently placed top 3 in competitions for Math, Number Sense, and Spelling at the district level
+
+---
 
 ## 🏀 Extracurriculars
 
@@ -96,12 +102,8 @@ Have developed time management skills in order to participate in extracurricular
 
 ### Quiz Bowl
 
-- History/Geography/Science player
+- Science, History, Geography, and Mythology player
 - Captain of school team
-
-### GEMUN
-
-- Represented school as Cote D'Ivoire in ECOSOC
 
 ### Debate
 

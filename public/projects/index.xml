@@ -6,7 +6,16 @@
     <description>Recent content in Projects on Akhil Peddikuppa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CommonPlace v2</title>
+      <link>/projects/commonplacev2/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/commonplacev2/</guid>
+      <description>Note: This app is in progress  An app to connect the community in a neighborhood. Users can create a community in which posts can be made, and users can schedule events which can be attended by others in the community Flutter SDK used to build the app with data from backend fetched from REST API. Features include direct messaging, group messaging, and ability to add advertisement per community.  </description>
+    </item>
+    
     <item>
       <title>Shop Your Store</title>
       <link>/projects/shopyourstore/</link>
@@ -60,7 +69,7 @@
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/firstproject/</guid>
-      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of thoughts in a blog format.</description>
+      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of my thoughts in a blog format.</description>
     </item>
     
     <item>

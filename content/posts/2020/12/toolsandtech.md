@@ -5,6 +5,7 @@ draft: false
 cover: 
     image: /img/banner.png
 weight: 3
+showToc: true
 ---
 
 ## A Walkthrough of What I Use...

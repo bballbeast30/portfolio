@@ -5,6 +5,7 @@ draft: false
 cover:
     image: https://res.cloudinary.com/practicaldev/image/fetch/s--B35LQIoC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ickb9tcxbvbumven7r32.png
 weight: 2
+showToc: true
 ---
 
 This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.

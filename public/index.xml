@@ -6,7 +6,16 @@
     <description>Recent content on Akhil Peddikuppa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CommonPlace v2</title>
+      <link>/projects/commonplacev2/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/commonplacev2/</guid>
+      <description>Note: This app is in progress  An app to connect the community in a neighborhood. Users can create a community in which posts can be made, and users can schedule events which can be attended by others in the community Flutter SDK used to build the app with data from backend fetched from REST API. Features include direct messaging, group messaging, and ability to add advertisement per community.  </description>
+    </item>
+    
     <item>
       <title>Shop Your Store</title>
       <link>/projects/shopyourstore/</link>
@@ -114,7 +123,7 @@ What is DaVinci Resolve? If you take a look at the main video-editing softwares 
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/firstproject/</guid>
-      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of thoughts in a blog format.</description>
+      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of my thoughts in a blog format.</description>
     </item>
     
     <item>
@@ -133,7 +142,7 @@ What is DaVinci Resolve? If you take a look at the main video-editing softwares 
       
       <guid>/about/</guid>
       <description>My name is Akhil Peddikuppa and I am currently a sophomore at the School for the Talented and Gifted in Dallas, Texas. I&amp;rsquo;m now 15 years old and intending to study medicine in the future.
-My main areas of interest are biology, chemistry, technology, and business, and I have been self learning about these topics for use in my everyday life. Recently, I&amp;rsquo;ve been researching peer to peer networking and especially decentralized network protocols with technology like IPFS or the InterPlanetary File System.</description>
+My main areas of interest are biology, chemistry, technology, and business, and I have been self learning about these topics for use in my everyday life. Recently, I&amp;rsquo;ve been researching peer to peer networking and decentralized network protocols with technology like IPFS or the InterPlanetary File System.</description>
     </item>
     
     <item>

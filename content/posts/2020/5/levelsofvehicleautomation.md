@@ -3,8 +3,9 @@ title: "The Levels of Vehicle Automation in 3 Minutes"
 date: 2020-05-27
 draft: false
 cover: 
-    image: https://hackernoon.com/hn-images/1*aaT-LZOlNZbQPlw33ZmhNQ.gif
+    image: https://i.pinimg.com/originals/4f/3e/05/4f3e05e73f4bab12c73378a11562f826.gif
 weight: 2
+showToc: true
 ---
 
 With automation and especially automation in cars becoming more present in everyday life, it is important to know the concepts associated with the new technology that will one day be all around us.
@@ -31,8 +32,7 @@ Level 3 vehicles have environmental detection and can make informed decisions fo
 These vehicles can operate without human interaction except for entering a destination. Until legislation and infrastructure evolves, these vehicles can only operate within a certain area, which is usually an urban environment. The ability to operate in within a certain area is what keeps vehicles at Level 4. Most Level 4 vehicles are geared towards ride-sharing services, such as Waymo which has developed cars which level 4 capabilities.
 
 {{< youtube xjoWJ3XZFNk >}}
-
-## And Finally, 
+ 
 ## Level 5: Full Automation
 Level 5 vehicles have full autonomous capabilities and can operate on their own. They likely will not have steering wheels or pedals for accelerating or braking. They will also be free from any geographic boundaries that Level 4 vehicles were constrained by and would be able to go anywhere and do anything an experienced human driver could do. There are no Level 5 vehicles available to the public as of right now, however testing is being done in several places around the world.
 

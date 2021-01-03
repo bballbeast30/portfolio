@@ -12,6 +12,7 @@ ShowShareButtons = false
 comments = false
 defaultTheme = "auto"
 disableThemeToggle = false
+relativeURLS = true
 
 [fuseOpts]
 isCaseSensitive = false
@@ -57,7 +58,7 @@ keys = [ "title", "permalink", "summary", "content" ]
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "My name is Akhil. I'm a High School Sophomore at the School for the Talented and Gifted in Dallas, Texas. I am interested in medicine, tech, and economics. If you would like to know more about me, you can click [this link to visit my page about me](/about/), or if you would like to see some of my projects, [click here](/projects/)."
+  Content = "My name is **Akhil**. I'm a High School Sophomore at the School for the Talented and Gifted in Dallas, Texas, and I am interested in medicine, tech, and economics. I have built this site to showcase my work and to occasionally write about topics I'm interested in. If you would like to know more about me, you can click [this link to visit my page about me](/about/), or if you would like to see some of my projects, [click here](/projects/)."
   
   
   [[params.socialIcons]]
